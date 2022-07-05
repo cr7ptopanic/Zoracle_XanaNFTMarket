@@ -1,1 +1,1 @@
-# Zoracle_XanaNFTMarket
+# Smart contracts for Zoracle Xana Marketplace
